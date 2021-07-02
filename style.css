@@ -1,0 +1,126 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*created by Elizabeth on 06-30-2021 to 07/02/2021*/
+body{
+	background-color: #FFF8EE;
+	font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+.french{
+	float: left;
+	padding:40px;
+	margin:91px;
+	border:1px solid ;
+	border-radius: 500px; 
+	text-align:center;
+	font-size:20px;
+
+}
+
+.greek{
+	float: left;
+	padding:40px;
+	margin:91px;
+	border:1px solid ;
+	border-radius: 500px; 
+	text-align:center;
+	font-size:20px;
+
+
+}
+.korean{
+	float: left;
+	padding:40px;
+	margin-right:200px;
+	margin-left:330px;
+	border:1px solid ;
+	border-radius: 800px; 
+	text-align:center;
+	font-size:20px;
+
+
+}
+.chinese{
+	float: left;
+	padding:40px;
+	margin:90px;
+	border:1px solid ;
+	border-radius: 500px; 
+	text-align:center;
+	font-size:20px;
+	
+
+
+}
+.caribbean{
+	float: left;
+	padding:40px;
+	margin-bottom:3500px;
+	margin-right:100px;
+	border:1px solid ;
+	border-radius: 500px; 
+	text-align:center;
+font-size:20px;
+		font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+img{
+	border: 1px solid transparent;
+	border-radius: 200px;
+}
+
+.tsection{
+	align-content: center;
+		font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
+
+#footer /* we have to use a # before because it is an id*/
+{
+
+font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+color: black;
+margin: 10px 2% 0 2%;
+width: 60%; /* The width should be variable */
+
+}
+
+.copyright /* it is the paragraph that is inside the footer*/
+
+{
+
+color:brown;
+}
+
+.body{
+	border:1px solid transparent;
+		font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+.nav{
+	padding:10px;
+	background-color: #EEFFF6 ;
+	
+}
+
+h1{
+	font-size: 40px;
+			font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+h2{
+	font-size: 30px;
+		color:#0D004F;
+		font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+p{
+	font-size:17px;
+		font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+}
+
+div{
+	background-color:whitesmoke;
+		font-family:Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+	
+}
